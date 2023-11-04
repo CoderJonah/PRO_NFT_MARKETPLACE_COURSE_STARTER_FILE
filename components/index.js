@@ -44,9 +44,9 @@ import AdminToken from "./Admin/AdminToken";
 import AdminFeedback from "./Admin/AdminFeedback";
 import AdminTransfer from "./Admin/AdminTransfer";
 import AdminCommunity from "./Admin/AdminCommunity";
-import AdminDashbord from "./Admin/AdminDashbord";
+import AdminDashbord from "./Admin/AdminDashboard";
 import AdminNFTs from "./Admin/AdminNFTs";
-import DashBordCard from "./Admin/DashBordCard";
+import DashBordCard from "./Admin/DashBoardCard";
 
 //TABLE
 import Table from "./Table/Table";
