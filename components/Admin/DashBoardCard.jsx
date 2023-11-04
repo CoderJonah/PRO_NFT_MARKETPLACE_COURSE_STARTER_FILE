@@ -1,7 +1,7 @@
 import React from "react";
 
-const DashBordCard = () => {
-  return <div>DashBordCard</div>;
+const DashBoardCard = () => {
+  return <div>DashBoardCard</div>;
 };
 
-export default DashBordCard;
+export default DashBoardCard;
